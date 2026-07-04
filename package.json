@@ -13,15 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danwdart/heartish.git"
+    "url": "git+https://github.com/emberdart/heartish.git"
   },
   "keywords": [],
-  "author": "Dan Dart <npm@dandart.co.uk> (https://dandart.co.uk/)",
+  "author": "Ember Dart <npm@emberdart.co.uk> (https://emberdart.co.uk/)",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/danwdart/heartish/issues"
+    "url": "https://github.com/emberdart/heartish/issues"
   },
-  "homepage": "https://github.com/danwdart/heartish#readme",
+  "homepage": "https://github.com/emberdart/heartish#readme",
   "devDependencies": {
     "eslint": "^9.15.0"
   },
